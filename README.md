@@ -24,7 +24,4 @@ I've started coding in 2017, where I was doing mostly Arduino and IOT stuff but 
                     </p>
 <p align="left">
                           
-                      <a href="https://www.github.com/MRabill" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/rabill-madarboccus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>Support Me<a
-                  href="https://www.buymeacoffee.com/rabill785w"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+                    
